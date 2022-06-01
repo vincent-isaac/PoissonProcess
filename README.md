@@ -1,9 +1,7 @@
 # Poisson Process
 
 # Aim : 
-Suppose that  customers arrive at a bank according to a poisson process with mean rate of 3 per minute; find the probability that during a time interval of 2 min 
-(i) exactly 4 customers arrive (ii) more than 4 customers arrive (iii) fewer than 4 customers in 2 miniute  arrival.
-
+To find the probability of that  (i) exactly 4 customers arrive (ii) more than 4 customers arrive (iii) fewer than 4 customers in 2 minute  arrival. Given that the customers arrive at a bank according to a Poisson process with mean rate of 3 per minute  during a time interval of 2 min. 
 
 
 # Software required :  
