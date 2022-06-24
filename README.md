@@ -1,4 +1,6 @@
-# Poisson Process
+### EX NO : 06
+### DATE  : 08.06.2022
+# <p align="center">Poisson Process</p>
 
 # Aim : 
 To find the probability of that  (i) exactly 4 customers arrive (ii) more than 4 customers arrive (iii) fewer than 4 customers in 2 minute  arrival. Given that the customers arrive at a bank according to a Poisson process with mean rate of 3 per minute  during a time interval of 2 min. 
@@ -21,7 +23,7 @@ The Poisson process is one of the most widely-used counting processes. It is usu
 
 ![image](https://user-images.githubusercontent.com/104613195/171325180-eaf80506-545c-4f35-878a-1e95aa0e81e3.png)
 
-
+<br/><br/>
 
 # Program :
 ```python
@@ -44,7 +46,8 @@ print(" rate of 3 per minute during a time interval of 2 min.",m)
 ```
 
 # Output :
-![Capture59](https://user-images.githubusercontent.com/75234588/173181748-a4fc39bb-4c8e-4847-a53f-7e3427f431ce.PNG)
+
+![1](https://user-images.githubusercontent.com/77089276/172535385-3a39b646-dc55-485e-8401-99531324a0c0.png)
 
 
 # Results:
